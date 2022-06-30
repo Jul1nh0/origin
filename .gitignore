@@ -1,5 +1,6 @@
-#игнорируем папку tmp
+#игнорируем папку и фвйлы
 tmp/
-#игнорирем прификсы _old, _backup
+Thumbs.db
 *_old
 *_backup
+*.DS_Store
